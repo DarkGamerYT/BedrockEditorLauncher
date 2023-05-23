@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Bedrock Editor Launcher is out",
-    "thumbnail": "./assets/imgs/icons/bedrock.png",
+    "thumbnail": "./assets/imgs/icons/preview.png",
     "description": "The Bedrock Editor Launcher is out now, download it on Github!",
     "category": "Bedrock Editor",
     "is_changelog": false,
