@@ -2,7 +2,7 @@
   {
     "id": 0,
     "title": "Bedrock Editor v0.3: The Basics Update (1.19.80.20)",
-    "thumbnail": null,
+    "thumbnail": "./assets/imgs/editor_mode.png",
     "description": "The first release of the Editor in Bedrock Preview!",
     "category": "Bedrock Editor",
     "type": 1,
