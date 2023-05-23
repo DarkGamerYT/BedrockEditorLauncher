@@ -5,6 +5,7 @@
     "thumbnail": "./assets/imgs/editor_mode.png",
     "description": "The first release of the Editor in Bedrock Preview!",
     "category": "Bedrock Editor",
+    "is_changelog": true,
     "type": 1,
     "releaseDate": 1678293257000,
     "link": "https://github.com/Mojang/minecraft-editor/discussions/2"
@@ -15,6 +16,7 @@
     "thumbnail": null,
     "description": "",
     "category": "Bedrock Editor",
+    "is_changelog": true,
     "type": 0,
     "releaseDate": 1678891265000,
     "link": "https://github.com/Mojang/minecraft-editor/discussions/86"
@@ -35,6 +37,7 @@
     "thumbnail": null,
     "description": "",
     "category": "Bedrock Editor",
+    "is_changelog": true,
     "type": 0,
     "releaseDate": 1681315748000,
     "link": "https://github.com/Mojang/minecraft-editor/discussions/103"
@@ -45,6 +48,7 @@
     "thumbnail": null,
     "description": "",
     "category": "Bedrock Editor",
+    "is_changelog": true,
     "type": 0,
     "releaseDate": 1681919481000,
     "link": "https://github.com/Mojang/minecraft-editor/discussions/107"
@@ -55,6 +59,7 @@
     "thumbnail": null,
     "description": "",
     "category": "Bedrock Editor",
+    "is_changelog": true,
     "type": 0,
     "releaseDate": 1682529067000,
     "link": "https://github.com/Mojang/minecraft-editor/discussions/110"
